@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.spotfera.arthur.spotfera.MainActivity">
+    <item
+        android:id="@+id/configuracoes"
+        android:orderInCategory="100"
+        android:title="@string/configuracoes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sair"
+        android:orderInCategory="100"
+        android:title="@string/sair"
+        app:showAsAction="never" />
+</menu>

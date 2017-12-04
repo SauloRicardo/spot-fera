@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpotFera</string>
+    <string name="request_code">1337</string>
+    <string name="client_id">6709b52c4912420794b9179ff4a918f0</string>
+    <string name="redirect_uri">spotfera://callback</string>
+
+    <string name="configuracoes">Configurações</string>
+    <string name="sair">Sair</string>
+    <string name="title_activity_detalhe_usuario">Detalhe do Usuario</string>
+</resources>
